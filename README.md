@@ -1,0 +1,1 @@
+Per importare il databse da PHPMyAdmin basta cliccare su 'Importa' e selzionare il file world.sql
